@@ -1,0 +1,72 @@
+body{
+    background-color: brown;
+}
+.principal{
+    background-color: yellow;
+    padding: 5px;
+}
+header{
+    background-color: rgba(133, 211, 117, 0.795);
+    padding: 5px;
+    text-align: center;
+    border: 3px;
+    border-style: solid;
+    border-color: green;
+}
+.contenido{
+    background-color: rgb(129, 187, 163);
+    padding: 5px;
+    border: 3px;
+    border-style: outset;
+    border-color: green;
+    margin-top: 5px;
+    display: flex;
+}
+nav{
+    background-color: rgba(121, 241, 211, 0.671);
+    width: 30%;
+    margin: 2px;
+    padding: 0%5px;
+    border: 1px;
+    border-style: inset;
+}
+section{
+    background-color: rgb(201, 243, 229);
+    width: 35%;
+    margin: 2px;
+    padding: 5px;
+    border: 1px;
+    border-style: inset;
+}
+footer{
+    background-color: darkseagreen;
+    border: 3px;
+    border-style: solid;
+    border-color: green;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+    color: floralwhite;
+}
+ul{
+    list-style: none;
+    padding: 1px;
+}
+a{
+    text-decoration: none;
+}
+.caja{
+    background-color: rgb(197, 230, 210);
+    padding: 3px;
+    margin: 3px;
+    border: 5px;
+    border-style: outset;
+    border-color: darkgrey;
+}
+img{
+width: 150px;
+height: 150px;
+}
+table{
+    margin: auto;
+}
